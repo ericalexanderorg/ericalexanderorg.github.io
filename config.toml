@@ -1,0 +1,36 @@
+baseurl = "http://ericalexander.org"
+languageCode = "en-us"
+title = "Eric Alexander"
+theme = "hemingway2"
+copyright = "&copy; <a href=\"http://ericalexander.org\">Eric Alexander</a> 2017"
+disqusShortname = "ericalexander-org"
+googleAnalytics = ""
+description = "What's on my mind"
+keywords = ["infosec", "automation"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/ericalexanderorg"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://www.linkedin.com/in/ericalexanderorg"
+fa_icon = "fa-linkedin"
+
+[[params.social]]
+url = "https://www.reddit.com/user/ericalexander303"
+fa_icon = "fa-reddit"
+
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
