@@ -1,7 +1,7 @@
 ---
 title: "Getting the Blog Back Together"
 date: 2017-11-05T15:10:26-07:00
-draft: true
+draft: false
 ---
 
 I used to have a blog. My old blog content is probably still hiding somewhere on archive.org. The death of my last blog was the culmination of a fading interest in blogging and a desire to simplify by reducing the number of things that needed my attention and time. I eventually came to the realization that I wanted to do other things and maintaining a blog wasn’t one of them. 
