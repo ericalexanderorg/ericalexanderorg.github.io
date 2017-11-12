@@ -4,7 +4,7 @@ date: 2017-11-12T08:49:53-07:00
 draft: false
 ---
 
-We have a coding skillset requirement for engineering candidates at [The Trade Desk](https://www.glassdoor.com/Overview/Working-at-The-Trade-Desk-EI_IE779832.11,25.htm). It’s a requirement for everyone from our DBAs to our Information Security Engineers. 
+We have a coding skill set requirement for engineering candidates at [The Trade Desk](https://www.glassdoor.com/Overview/Working-at-The-Trade-Desk-EI_IE779832.11,25.htm). It’s a requirement for everyone from our DBAs to our Information Security Engineers. 
 
 I can probably guess what you may be thinking. Let’s get some common arguments out of the way. 
 
