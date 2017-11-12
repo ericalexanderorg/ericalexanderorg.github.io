@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Wed, 08 Nov 2017 06:46:22 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Nov 2017 08:49:53 -0700</lastBuildDate>
     
 	<atom:link href="http://ericalexander.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Can They Code?</title>
+      <link>http://ericalexander.org/posts/can-they-code/</link>
+      <pubDate>Sun, 12 Nov 2017 08:49:53 -0700</pubDate>
+      
+      <guid>http://ericalexander.org/posts/can-they-code/</guid>
+      <description>We have a coding skillset requirement for engineering candidates at The Trade Desk. It’s a requirement for everyone from our DBAs to our Information Security Engineers.
+I can probably guess what you may be thinking. Let’s get some common arguments out of the way.
+“Software Engineers should focus on writing code. Let me focus on my discipline”
+“There’s a shortage of InfoSec candidates. Why further limit the talent pool?”
+Both are valid arguments that are hard to disagree with.</description>
+    </item>
     
     <item>
       <title>Infosec Hierarchy of Needs</title>
