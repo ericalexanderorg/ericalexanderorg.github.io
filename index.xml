@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Sun, 12 Nov 2017 08:49:53 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2017 10:36:50 -0700</lastBuildDate>
     
 	<atom:link href="http://ericalexander.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uptime Is the Evil of Secure</title>
+      <link>http://ericalexander.org/posts/uptime-is-the-evil-of-secure/</link>
+      <pubDate>Fri, 24 Nov 2017 10:36:50 -0700</pubDate>
+      
+      <guid>http://ericalexander.org/posts/uptime-is-the-evil-of-secure/</guid>
+      <description>Who hates uptime? If we’re talking system uptime, then yeah, this guy hates uptime. Service uptime? Love it.
+Metrics? Love those also. My favorite metrics are aggregates. I love single values that can tell a story. Uptime is one of the best aggregates. Uptime tells us the obvious: How long has it been up? It also tells us the not so obvious: How good are we at patching systems and how good are we at designing resilient services?</description>
+    </item>
     
     <item>
       <title>Can They Code?</title>
