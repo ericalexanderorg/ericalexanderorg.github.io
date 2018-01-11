@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Fri, 24 Nov 2017 10:36:50 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2018 19:38:31 -0700</lastBuildDate>
     
 	<atom:link href="http://ericalexander.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Make Change Happen</title>
+      <link>http://ericalexander.org/posts/make-change-happen/</link>
+      <pubDate>Wed, 10 Jan 2018 19:38:31 -0700</pubDate>
+      
+      <guid>http://ericalexander.org/posts/make-change-happen/</guid>
+      <description>“Look at email, go to meetings, discuss designs, have my head explode because people are retarded, look at vuln reports on production servers, head explodes because people haven&amp;rsquo;t patched shit in 2 fuckin years, send emails, write power point presentations telling management how bad their people suck, talk to some lawyers, respond to an incident then go the fuck home to do it all over again the next day.”</description>
+    </item>
     
     <item>
       <title>Uptime Is the Evil of Secure</title>
