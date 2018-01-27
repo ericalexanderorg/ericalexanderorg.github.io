@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Wed, 10 Jan 2018 19:38:31 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2018 15:01:50 -0700</lastBuildDate>
     
 	<atom:link href="http://ericalexander.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Security Awareness Training - What Works?</title>
+      <link>http://ericalexander.org/posts/security-awareness-training-what-works/</link>
+      <pubDate>Sat, 27 Jan 2018 15:01:50 -0700</pubDate>
+      
+      <guid>http://ericalexander.org/posts/security-awareness-training-what-works/</guid>
+      <description>Need to be PCI, CJIS, or NIST 800-53 compliant? If so, Security Awareness Training (SAT) isn’t optional. What if you’re not bound by those security requirements? What if you could take a pragmatic approach and do it, not because you have to; rather, your only motivation is to reduce risk.
+Let’s say you’re launching a new cryptocurrency exchange. You’re not bound by any compliance requirement, but, you’re also a major target.</description>
+    </item>
     
     <item>
       <title>Make Change Happen</title>
