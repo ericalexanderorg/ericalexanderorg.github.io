@@ -6,11 +6,21 @@
     <description>Recent content on Eric Alexander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2017</copyright>
-    <lastBuildDate>Wed, 26 Dec 2018 21:13:04 -0700</lastBuildDate>
+    <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2019</copyright>
+    <lastBuildDate>Sat, 03 Aug 2019 10:35:24 -0600</lastBuildDate>
     
 	<atom:link href="http://ericalexander.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Started a Meetup</title>
+      <link>http://ericalexander.org/posts/started-a-meetup/</link>
+      <pubDate>Sat, 03 Aug 2019 10:35:24 -0600</pubDate>
+      
+      <guid>http://ericalexander.org/posts/started-a-meetup/</guid>
+      <description>I started a meetup .
+Let’s talk about the name DevSecOps first. It’s controversial and it’s not inclusive if we’re only joining the abbreviations of 3 specialties. It’s not perfect, I didn’t like it at first either, but it’s the name that’s been adopted for organizations that have applied lean principles towards the delivery of software while also reducing risk and improving security. If you can’t beat them, join them.</description>
+    </item>
     
     <item>
       <title>2018 Breach Data</title>

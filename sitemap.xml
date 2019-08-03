@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ericalexander.org/posts/started-a-meetup/</loc>
+    <lastmod>2019-08-03T10:35:24-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ericalexander.org/posts/2018-breach-data/</loc>
     <lastmod>2018-12-26T21:13:04-07:00</lastmod>
   </url>
@@ -54,13 +59,13 @@
   
   <url>
     <loc>http://ericalexander.org/</loc>
-    <lastmod>2018-12-26T21:13:04-07:00</lastmod>
+    <lastmod>2019-08-03T10:35:24-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ericalexander.org/posts/</loc>
-    <lastmod>2018-12-26T21:13:04-07:00</lastmod>
+    <lastmod>2019-08-03T10:35:24-06:00</lastmod>
     <priority>0</priority>
   </url>
   
