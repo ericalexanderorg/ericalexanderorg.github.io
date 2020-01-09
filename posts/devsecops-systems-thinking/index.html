@@ -1,0 +1,125 @@
+<body>
+  <!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="" name="keywords">
+<meta content="Devsecops - Systems Thinking - Eric Alexander" property="og:title">
+<title>Devsecops - Systems Thinking | Eric Alexander</title>
+<link rel="stylesheet" href="http://ericalexander.org/css/style.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+
+
+  <section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="http://ericalexander.org/"><h1 class="title is-4">Eric Alexander</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          
+          <a class="level-item" href="https://github.com/ericalexanderorg">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://www.linkedin.com/in/ericalexanderorg">
+            <span class="icon">
+              <i class="fa fa-linkedin"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://www.reddit.com/user/ericalexander303">
+            <span class="icon">
+              <i class="fa fa-reddit"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="subtitle is-6">January 8, 2020</h2>
+      <h1 class="title">Devsecops - Systems Thinking</h1>
+      
+      <div class="content">
+        <p>Every system is perfectly designed to get the results it gets - W. Edwards Deming</p>
+
+<p>Seems most in the tech world have heard of DevOps, but never Deming - the father of quality. Deming’s ideas were the catalyst for Lean Manufacturing, and in turn DevOps to DevSecOps. While many of us have heard “Security is everyone’s job” we don’t know it’s borrowed from Deming’s quote: Quality is everyone’s job. Did you know he was primarily addressing management with that quote?</p>
+
+<p>It’s unfortunate the saying “Security is everyone’s job” gets thrown around like everyone doesn’t take security seriously, like there’s some kind of rampant normalized deviance or cognitive dissonance problem when in reality the problem is many times closer to a cognitive load issue. Phishing is a great example. What do you think? Is phishing more normalized deviance, cognitive dissonance, or cognitive load?</p>
+
+<p>Ever sit down and talk with somebody that’s fallen for phishing? Ever ask them why they opened that funny looking doc attachment or clicked on that link and entered their username and password? Most often you’ll hear words like busy and confused. Most of the time they’re multi-tasking, most of the time they don’t realize how far into auto-pilot mode they’ve drifted.</p>
+
+<p>Deming promoted the idea that you need to understand the system to understand the outcome and in any sufficiently complex system the only way to achieve a desired outcome change is to experiment. Toyota changed it a little and talked about conditions: Current and Target conditions. If you’ve been exposed to Agile Methodologies, then you’ve probably heard of user stories as a way to take customer discussions and requirements and translate them into a description of desired functionality for engineering to build. Target conditions aren’t much different, they’re descriptions of a “north star”, a situation that you’d like to be in, with no definition of how you’re going to get there.</p>
+
+<p>Current condition is your hypothesis about your current condition. Wait, hypothesis? I don’t know my current state? I don’t know what’s going on? Probably not. Bear with me, it’ll all make sense. I promise.</p>
+
+<p>So now you’ve got this hypothesis of reality, point A, and this idea of what you’d like reality to look like, point B. How do you get from point A to point B? Let’s use that phishing example. Let’s say our target condition is to always avoid anyone clicking on a phishing link they received in an email, and let’s say our current condition is, well, it’s ridiculous how often idiots click on those links!</p>
+
+<p>The next step? It’s to hypothesize what action will get us closer to our target condition. Wait, idiots right? These idiots need some training. So that’s what we do, but we want to keep experiment steps short, we want to fail fast, so we take our top idiot and set them down for a day of training on how to spot a phishing email. The next day check if it worked by sending them some mimicked phishing emails to see if they fall for it.</p>
+
+<p>Didn’t work. Turns out there was no measurable improvement. Training didn’t work, what else can we try? Everyone keeps saying they’re “busy” or “confused”, how do we reduce busy &amp; confused? We need a cup of copy to think it over so we head down to the new fancy espresso machine in our break area. As we’re trying to figure out how to use this espresso machine that only an engineer could understand! It hits us: Maybe it’s a design issue?</p>
+
+<p>We hypothesize that we can decrease cognitive load by adding a warning to the email messages when there’s phishing indicators. We run the idea by the team who manages the email system and they’ve got some ideas on how to make it work. The next day we’re testing it out and it’s a success. Turns out it wasn’t an “idiot” problem, turns out they really were just busy and confused - it was a cognitive load problem and a little feedback in the UI solved the problem.</p>
+
+<p>OK, so it’s all a little contrived, but you get the idea. We just went through the Deming Cycle: Plan, Do, Check, and Act. It’s not magic, it’s just a simple technique to iterate towards improvement in a complex environment or system. The technique depends on little to no assumption that we know all factors, but as we loop, we learn. Our mental models of the system improves as we loop and we become more effective and efficient through every loop.</p>
+
+      </div>
+    </div>
+  </section>
+  
+<section class="section">
+  <div class="container">
+    <aside><div id="disqus_thread"></div></aside>
+    <script type="text/javascript">
+      var disqus_shortname = 'ericalexander-org';
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+
+  <section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="http://ericalexander.org">Eric Alexander</a> 2017</p>
+  </div>
+</section>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/dockerfile.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-87327219-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+
+
+</body>

@@ -6,11 +6,21 @@
     <description>Recent content on Eric Alexander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2019</copyright>
-    <lastBuildDate>Sat, 03 Aug 2019 10:35:24 -0600</lastBuildDate>
+    <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Wed, 08 Jan 2020 17:36:14 -0700</lastBuildDate>
     
 	<atom:link href="http://ericalexander.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Devsecops - Systems Thinking</title>
+      <link>http://ericalexander.org/posts/devsecops-systems-thinking/</link>
+      <pubDate>Wed, 08 Jan 2020 17:36:14 -0700</pubDate>
+      
+      <guid>http://ericalexander.org/posts/devsecops-systems-thinking/</guid>
+      <description>Every system is perfectly designed to get the results it gets - W. Edwards Deming
+Seems most in the tech world have heard of DevOps, but never Deming - the father of quality. Deming’s ideas were the catalyst for Lean Manufacturing, and in turn DevOps to DevSecOps. While many of us have heard “Security is everyone’s job” we don’t know it’s borrowed from Deming’s quote: Quality is everyone’s job. Did you know he was primarily addressing management with that quote?</description>
+    </item>
     
     <item>
       <title>Started a Meetup</title>
@@ -20,16 +30,6 @@
       <guid>http://ericalexander.org/posts/started-a-meetup/</guid>
       <description>I started a meetup .
 Let’s talk about the name DevSecOps first. It’s controversial and it’s not inclusive if we’re only joining the abbreviations of 3 specialties. It’s not perfect, I didn’t like it at first either, but it’s the name that’s been adopted for organizations that have applied lean principles towards the delivery of software while also reducing risk and improving security. If you can’t beat them, join them.</description>
-    </item>
-    
-    <item>
-      <title>2018 Breach Data</title>
-      <link>http://ericalexander.org/posts/2018-breach-data/</link>
-      <pubDate>Wed, 26 Dec 2018 21:13:04 -0700</pubDate>
-      
-      <guid>http://ericalexander.org/posts/2018-breach-data/</guid>
-      <description>If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle. -Sun Tsu, The Art of War
- Some advice on preventing about 70% of the incidents I see over in /r/securitybreach, a sub reddit started to help answer the questions: What&amp;rsquo;s the enemy after?</description>
     </item>
     
     <item>
