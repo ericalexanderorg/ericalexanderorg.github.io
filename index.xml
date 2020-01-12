@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;http://ericalexander.org&#34;&gt;Eric Alexander&lt;/a&gt; 2020</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 17:58:30 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 17:36:14 -0700</lastBuildDate>
     
 	<atom:link href="http://ericalexander.org/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Breach Data</title>
-      <link>http://ericalexander.org/posts/breach-data/</link>
-      <pubDate>Wed, 08 Jan 2020 17:58:30 -0700</pubDate>
-      
-      <guid>http://ericalexander.org/posts/breach-data/</guid>
-      <description>Looking for security breach data? https://ericalexander.org/SecurityBreach</description>
-    </item>
     
     <item>
       <title>DevSecOps - Systems Thinking</title>

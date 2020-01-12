@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ericalexander.org/posts/breach-data/</loc>
-    <lastmod>2020-01-08T17:58:30-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://ericalexander.org/posts/devsecops-systems-thinking/</loc>
     <lastmod>2020-01-08T17:36:14-07:00</lastmod>
   </url>
@@ -59,13 +54,13 @@
   
   <url>
     <loc>http://ericalexander.org/</loc>
-    <lastmod>2020-01-08T17:58:30-07:00</lastmod>
+    <lastmod>2020-01-08T17:36:14-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ericalexander.org/posts/</loc>
-    <lastmod>2020-01-08T17:58:30-07:00</lastmod>
+    <lastmod>2020-01-08T17:36:14-07:00</lastmod>
     <priority>0</priority>
   </url>
   
