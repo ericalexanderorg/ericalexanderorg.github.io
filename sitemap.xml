@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ericalexander.org/</loc>
-    <lastmod>2020-03-14T09:29:37-06:00</lastmod>
+    <loc>https://ericalexander.org/post/devops-and-ransomware/</loc>
+    <lastmod>2020-11-15T13:06:13-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ericalexander.org/post/how-is-the-water/</loc>
-    <lastmod>2020-03-14T09:29:37-06:00</lastmod>
+    <loc>https://ericalexander.org/</loc>
+    <lastmod>2020-11-15T13:06:13-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ericalexander.org/post/</loc>
+    <lastmod>2020-11-15T13:06:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ericalexander.org/post/how-is-the-water/</loc>
     <lastmod>2020-03-14T09:29:37-06:00</lastmod>
   </url>
   

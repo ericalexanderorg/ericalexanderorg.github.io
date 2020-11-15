@@ -6,10 +6,20 @@
     <description>Recent content on Eric Alexander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2020 09:29:37 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 13:06:13 -0700</lastBuildDate>
     
 	<atom:link href="https://ericalexander.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Devops and Ransomware</title>
+      <link>https://ericalexander.org/post/devops-and-ransomware/</link>
+      <pubDate>Sun, 15 Nov 2020 13:06:13 -0700</pubDate>
+      
+      <guid>https://ericalexander.org/post/devops-and-ransomware/</guid>
+      <description>Mr. Bezos. I’m all in favor of a clean fulfillment center, but tell me: Why do you sweep? Why do you not instead eliminate the source of dirt? - Unknown “insultant”
+ Does DevOps pass the “so what?” test? When you start to follow the history of DevOps, you go from Agile, Lean, Theory of Constraints (TOS), Total Quality Management (TQM), Toyota Production Systems (TPS), Statistical Process Control, scientific method, and maybe all the way back to the ancients: Socrates, Plato, and Aristotle - So what?</description>
+    </item>
     
     <item>
       <title>How Is the Water?</title>
