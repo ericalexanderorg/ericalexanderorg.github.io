@@ -180,11 +180,15 @@
 <p>Once they get on the network they’ll deploy a <a href="https://www.theregister.com/2020/09/24/cobalt_strike_cisco_talos/">command and control</a> (C&amp;C) tool that enables them to drop additional tools and start hunting domain admins. They’ll search for servers or computers <a href="https://github.com/BloodHoundAD/BloodHound">where they can login, and where the domain admin is logged in</a>. Once they find that system they grab either the domain admin’s password, or their session information (<a href="https://en.wikipedia.org/wiki/Pass_the_hash">just as good as a password</a>), then it’s game over. They now have keys to the kingdom and can delete backups and encrypt systems.</p>
 <p>Now that you know how it works, and the cause and effect: Did LCPS eliminate the source of dirt?</p>
 <p>This is the only statement that covers what they learned, and how they changed:</p>
+<blockquote>
 <p>Since then, we have installed firewalls, updated our systems, invested in our teachers and improved our infrastructure so we can protect ourselves.</p>
+</blockquote>
 <p>If we go back to our current reality tree we can ask:</p>
-<p>Does a firewall address the conflict points? It’s not clear if they’re talking about a new fancy next-gen perimeter firewall, improved network segregation, or host firewalls. Segregation and host firewalls could help if they prevent the bad actor from logging into a shared system where domain admin is logged in.
-Was the problem updated systems? Possible vector if they’re not patching, but it doesn’t address the core conflict.
-Invested in our teachers and improved our infrastructure. Great. Keep it up, but it still doesn’t address the core conflict.</p>
+<ul>
+<li>Does a firewall address the conflict points? It’s not clear if they’re talking about a new fancy next-gen perimeter firewall, improved network segregation, or host firewalls. Segregation and host firewalls could help if they prevent the bad actor from logging into a shared system where domain admin is logged in.</li>
+<li>Was the problem updated systems? Possible vector if they’re not patching, but it doesn’t address the core conflict.</li>
+<li>Invested in our teachers and improved our infrastructure. Great. Keep it up, but it still doesn’t address the core conflict.</li>
+</ul>
 <p>This is the core conflict:</p>
 <p><img src="/20201115-crt-3.png" alt="core conflict"></p>
 <p>The number of domain admins is the core conflict. It’s rarely necessary to have any domain admins, but most organizations have much more than zero when it’s easier to give somebody domain admin access, than it is to take the time to give them only the access they need to do their job. Plain old Least Privilege. Plain old <a href="https://www.cisecurity.org/controls/controlled-use-of-administrative-privileges/">#4 on the CIS Top 20 security controls</a>.</p>
