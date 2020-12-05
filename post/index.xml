@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Eric Alexander</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2020 13:06:13 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 05 Dec 2020 11:50:35 -0700</lastBuildDate>
     
 	<atom:link href="https://ericalexander.org/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mental Models</title>
+      <link>https://ericalexander.org/post/mental-models/</link>
+      <pubDate>Sat, 05 Dec 2020 11:50:35 -0700</pubDate>
+      
+      <guid>https://ericalexander.org/post/mental-models/</guid>
+      <description>Is Youtube machine learning drawing a connection between Steve Jobs and DevOps? Is that why Youtube keeps recommending a Steve Jobs related video after I watch a DevOps related video?
+Maybe Youtube is on to something. I had an aha moment after watching an interview with Andy Miller about the Apple acquisition of his company, Quattro Wireless. Andy talks about Steve’s constant demands to simplify, and his advice to Andy: “Use a picture.</description>
+    </item>
     
     <item>
       <title>DevOps and Ransomware</title>
