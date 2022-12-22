@@ -1,2 +1,1 @@
-# ericalexanderorg.github.io
-My blog created by hugo
+Eric Alexander's Personal Site
