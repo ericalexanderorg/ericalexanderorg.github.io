@@ -1,1 +1,3 @@
-Eric Alexander's Personal Site
+## Hi! You've found my personal site
+
+Congrats
